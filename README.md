@@ -35,8 +35,3 @@ make -j$(nproc)
 `./tresnet34N32`
 You should change the `tresnet34N32` to any equivalent configuration provided in the paper. 
 
-
-
-## Run Binaries
-`./tresnet34N32`
-You should change the `tresnet34N32` to any equivalent configuration provided in the paper. 
