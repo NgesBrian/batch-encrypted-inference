@@ -1,8 +1,2 @@
 build/*
-sskeys
-packages/*
-images/*
 HEkeys/*
-AllHEkeys/*
-myenv/*
-mydocs_env/*
